@@ -79,6 +79,8 @@ const filterBtn = document.querySelectorAll(".filter-btn");
 
 window.addEventListener("DOMContentLoaded", () => {
   displayMenuItems(menu);
+
+  
 });
 // Filter Items
 
