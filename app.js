@@ -73,3 +73,9 @@ const menu = [
     },
   ];
   
+
+  const centeredSection = document.querySelector("section-center");
+
+  window.addEventListener("DOMContentLoaded", () => {
+    console.log("Shake and Bake");
+  })
